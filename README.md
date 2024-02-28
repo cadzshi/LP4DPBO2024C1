@@ -2,7 +2,7 @@
 
 ## Janji
 
-Saya Sabila Rosad NIM 2106000 mengerjakan latihan 2
+Saya Sabila Rosad NIM 2106000 mengerjakan latihan 4
 dalam mata kuliah Desain Pemrograman Berorientasi Objek
 untuk keberkahanNya maka saya tidak melakukan
 kecurangan seperti yang telah dispesifikasikan
